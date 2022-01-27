@@ -43,9 +43,7 @@ we ended up almost writing the same thing... could have accidentally had a succe
 ## STEP 11: And even more merge conflicts!
 
 ```{r break-it-2}
-### Both partners - delete this comment, then write some code here
-### to plot, summarize, calculate something simple using the diamonds
-### dataset.
+AAAAAAHHHHHH 
 
 
 ```
