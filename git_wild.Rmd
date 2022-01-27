@@ -17,8 +17,12 @@ library(tidyverse)
 ### In this code chunk, start with the diamonds dataset (built in to
 ### ggplot2 package) and create a plot of price vs. carat (or some other
 ### variables of your choice)
+<<<<<<< HEAD
 This is my random as partner 1, Brendan!
   Something new in my branch
+=======
+dje
+>>>>>>> origin
 
 ```
 
@@ -27,7 +31,7 @@ This is my random as partner 1, Brendan!
 ### ggplot2 package) and create a subset based on filtering, e.g., 
 ### size greater than 1 carat or cut is "Ideal"
 
-
+code code code :)
 
 ```
 
