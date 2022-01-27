@@ -18,6 +18,7 @@ library(tidyverse)
 ### ggplot2 package) and create a plot of price vs. carat (or some other
 ### variables of your choice)
 This is my random as partner 1, Brendan!
+  Something new in my branch
 
 ```
 
