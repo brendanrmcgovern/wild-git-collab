@@ -43,7 +43,5 @@ we ended up almost writing the same thing... could have accidentally had a succe
 ## STEP 11: And even more merge conflicts!
 
 ```{r break-it-2}
-AAAAAAHHHHHH 
-
-
+AAAAAAHHHHHH!!! BLARHHHH
 ```
