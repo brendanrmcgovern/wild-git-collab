@@ -8,6 +8,7 @@ output: html_document
 ```{r setup, include=TRUE, message = FALSE, warning = FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
+
 ```
 
 ## STEP 5: No merge conflicts!
@@ -16,7 +17,7 @@ library(tidyverse)
 ### In this code chunk, start with the diamonds dataset (built in to
 ### ggplot2 package) and create a plot of price vs. carat (or some other
 ### variables of your choice)
-dje
+dje j
 
 ```
 
@@ -35,7 +36,7 @@ code code code :)
 ### Both partners - delete this comment, then write some code here
 ### to plot, summarize, calculate something simple using the diamonds
 ### dataset.
-unsupervised editing! oh no!!
+we ended up almost writing the same thing... could have accidentally had a successful merge. welp
 
 ```
 
