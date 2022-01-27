@@ -46,6 +46,6 @@ we ended up almost writing the same thing... could have accidentally had a succe
 ### Both partners - delete this comment, then write some code here
 ### to plot, summarize, calculate something simple using the diamonds
 ### dataset.
-
+now this is really unsupervised.
 
 ```
